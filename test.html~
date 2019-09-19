@@ -3,7 +3,7 @@
 import('/myfunctions.js')
   .then((module) => {
     // Do something with the module.
-    console.log(module.calculatePi());
+    consoloe.log(module.calculatePi());
   });
 </script>
 </head>

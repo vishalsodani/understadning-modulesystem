@@ -1,0 +1,3 @@
+import {calculatePi} from './myfunctions'
+let val = calculatePi();
+console.log(val);
